@@ -1,0 +1,60 @@
+#container {
+	position:relative;
+	width: 100%;
+	
+}
+#box {
+	width: 100 px;
+	height: 100 px;
+}
+
+#subcontainer {
+	width: 30%;
+	height: auto;
+	background-color: orange;
+	border-width: 2px;
+	margin: 0px auto;
+	margin-top: 100px;
+	position: absolute;
+	margin-left: 500px;
+}
+
+#register {
+	width: 30%;
+	height: auto;
+	background-color: orange;
+	border-width: 2px;
+	margin: 0px auto;
+	margin-top: 27px;
+	position: absolute;
+	margin-left: 500px;
+}
+
+button {
+	width: 48%;
+	padding: 15px;
+	border-radius: 6px;
+}
+
+label {
+	display: inline-block;
+	width: 115px;
+	margin-right: 30px;
+	text-align: right;
+}
+
+#fields input {
+    width: 60%;
+    height: 37px;
+    border-radius: 6px;
+    padding: 0px 4px 0px 23px;
+    margin-bottom: 17px;
+}
+#display {
+    width: 70%;
+    height: 100%;
+}
+#nav-links {
+    width: 20%;
+    height: 100%;
+}
